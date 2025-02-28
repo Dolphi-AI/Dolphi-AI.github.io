@@ -48,16 +48,23 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+  - icon:	tiktok
+    url:	https://www.tiktok.com/@yourusername
+    desc:	Follow me on TikTok
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	instagram
+    url:	https://www.tiktok.com/@yourusername
+    desc:	Follow me on TikTok
+    share_url:
+    share_title:
+    share_link:
