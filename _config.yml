@@ -10,15 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+logo: "/assets/images/logo.svg"
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Acorn Editor'
 author: 'Acorn Editor'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author-avatar.jpg"
 
 paginate:	5
 
@@ -56,15 +56,15 @@ social:
   #   share_link:
 
   - icon:	tiktok
-    url:	https://www.tiktok.com/@yourusername
+    url:	https://www.tiktok.com/@acornapp
     desc:	Follow me on TikTok
     share_url:
     share_title:
     share_link:
 
   - icon:	instagram
-    url:	https://www.tiktok.com/@yourusername
-    desc:	Follow me on TikTok
+    url:	https://www.instagram.com/acorn.app/
+    desc:	Follow me on instagram
     share_url:
     share_title:
     share_link:
