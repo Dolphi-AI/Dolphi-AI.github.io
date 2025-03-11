@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Empowering Women: 3 AI-Powered Book Summaries to Elevate Your Women’s History Month"
+title: "Empowering Women: 3 Must-Reads with Summaries & Podcasts to Elevate Women’s History Month"
 date: 2025-03-10 17:00:00
 categories: feature
 tags: featured
 ---
 
-# Empowering Women: 3 AI-Powered Book Summaries to Elevate Your Women’s History Month
+# Empowering Women: 3 Must-Reads with Summaries & Podcasts to Elevate Women’s History Month
 
 As we celebrate Women's History Month 2025, the Acornx.ai team is excited to collaborate with [WOMEN x AI](https://www.womenxai.com/) on a special blog highlighting influential books that showcase the power of women in technology, leadership, and personal growth. 
 
