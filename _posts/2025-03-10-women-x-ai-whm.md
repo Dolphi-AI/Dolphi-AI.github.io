@@ -8,7 +8,7 @@ tags: featured
 
 As we celebrate Women's History Month 2025, the Acorn is excited to collaborate with [WOMEN x AI](https://www.womenxai.com/) on a special blog highlighting influential books that showcase the power of women in technology, leadership, and personal growth. 
 
-![Image](https://github.com/Dolphi-AI/Dolphi-AI.github.io/blob/master/assets/article_images/Minimal%20Photocentric%20Productivity%20Blog%20Banner.png)
+![Image](/assets/article_images/Minimal%20Photocentric%20Productivity%20Blog%20Banner.png)
 
 This year's theme, "[Moving Forward Together! Women Educating & Inspiring Generations](https://www.usatoday.com/story/life/womankind/2025/03/01/international-womens-history-month-2025-moving-forward-together/80963696007/#:~:text=For%202025%2C%20the%20theme%20is,and%20futures%20of%20all%20generations.)," perfectly aligns with our selection of empowering reads. 
 
