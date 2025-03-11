@@ -6,9 +6,7 @@ categories: feature
 tags: featured
 ---
 
-# Empowering Women: 3 Must-Reads with Summaries & Podcasts to Elevate Women’s History Month
-
-As we celebrate Women's History Month 2025, the Acornx.ai team is excited to collaborate with [WOMEN x AI](https://www.womenxai.com/) on a special blog highlighting influential books that showcase the power of women in technology, leadership, and personal growth. 
+As we celebrate Women's History Month 2025, the Acorn is excited to collaborate with [WOMEN x AI](https://www.womenxai.com/) on a special blog highlighting influential books that showcase the power of women in technology, leadership, and personal growth. 
 
 ![Image](https://github.com/Dolphi-AI/Dolphi-AI.github.io/blob/master/assets/article_images/Minimal%20Photocentric%20Productivity%20Blog%20Banner.png)
 
