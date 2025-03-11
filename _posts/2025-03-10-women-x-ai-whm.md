@@ -17,7 +17,6 @@ In March, Acorn is celebrating Women’s History Month by spotlighting the voice
 
 ## AcornxBook Summaries Recommended by the WOMEN x AI Team
 
-
 ### 1. [The Worlds I See](https://acornx.ai/books/the-worlds-i-see): Curiosity, Exploration, and Discovery at the Dawn of AI by Dr. Fei-Fei Li
 
 Dr. Fei-Fei Li's memoir offers a fascinating glimpse into the life of one of AI's key visionaries. As an immigrant who rose to become a leading figure in computer science, Li's journey is both inspiring and enlightening. Her book not only explains the intricacies of AI but also emphasizes the importance of keeping humanity at the center of technological advancements. The book is a joy to read because it seamlessly weaves together Li’s life and the rise of AI, they are of course intertwined. 
