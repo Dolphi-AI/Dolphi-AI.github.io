@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Be Wise: Small Habits That Make a Big Difference"
-date: 2025-03-28 17:00:00
+date: 2025-04-03 17:00:00
 categories: feature
 tags: featured
 ---
