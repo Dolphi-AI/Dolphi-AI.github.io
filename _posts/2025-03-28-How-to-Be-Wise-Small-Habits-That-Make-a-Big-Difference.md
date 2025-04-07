@@ -74,7 +74,7 @@ Start with our “Wisdom Builders” collection—no fluff, just perspective.
 
 
 ## Shareable Visual Card (Save & Share!)
-![image2](/assets/article_images/blog-1-part-2.png)
+![image2](/assets/article_images/blog-1-part-3.png)
 
 ## Final Thought: What Does Being Wise Look Like for You?
 Is it pausing before reacting?
