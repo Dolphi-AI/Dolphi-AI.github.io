@@ -14,7 +14,7 @@ Maybe you’ve asked yourself:
 
 Let’s explore what the science says, what the real-life experience feels like—and how you can get the best of both.
 
-![image1](/assets/article_images/blog-2-part-1.png)
+![quote](/assets/article_images/blog-2-part-1.png)
 
 ## 📚 Reading: The Power of Focus + Visual Memory
 When you read a book:
@@ -35,19 +35,18 @@ But don’t count listening out. Listening to books or podcasts offers:
 💡 In fact, studies suggest that story retention is nearly the same across audio and print—what matters is your level of attention while consuming it.
 
 ## 🧩 Know Yourself First: What Type of Learner Are You?
-
-| Learner Type      | Best Medium                         | Try This on Acorn         |
-|-------------------|-------------------------------------|----------------------------|
-| Visual Thinker    | Reading (summaries, highlights)     | 5-min Book Briefs         |
-| Auditory Learner  | Listening (audio summaries, podcasts) | Acorn Audio Deepdives     |
-| Hybrid Learner    | Read + Listen for full effect       | Start with audio, follow with notes |
+| Learner Type      | Best Medium                            | Try This on Acorn                   |
+|-------------------|----------------------------------------|-------------------------------------|
+| Visual Thinker    | Reading (summaries, highlights)        | 5-min Book Briefs                   |
+| Auditory Learner  | Listening (audio summaries, podcasts)  | Acorn Audio Deepdives               |
+| Hybrid Learner    | Read + Listen for full effect          | Start with audio, follow with notes |
 
 ## 🧠 Science Says: Combine Both to Learn Faster!
 Here's how high-performing learners do it:
 1. Listen first to get the big picture.
 2. Read highlights or summaries to anchor key takeaways.
 3. Reflect on what you learned—bonus points if you write it down.
-![image2](/assets/article_images/blog-2-part-2.png)
+![the-role-of-hobbies](/assets/article_images/blog-2-part-2.png)
 🎯 That’s exactly how Acorn is built: bite-sized audio + key quotes + reflection prompts.
 
 ## 🎧 Why Acorn Combines Reading and Listening
@@ -65,7 +64,7 @@ That’s how ideas stick.
 At the end of the day, the “right” format is the one you’ll actually use.
 Make learning feel natural. Fit it into your life—not the other way around.  
 Whether you’re reading on a quiet morning or listening on a noisy train, wisdom comes from reflection, not just consumption.
-![image3](/assets/article_images/blog-2-part-3.png)
+![how-to-be-wise](/assets/article_images/blog-2-part-3.png)
 
 ## 🚀 Try Both on Acorn Today
 Explore a book in audio, highlight key quotes, and grow smarter—your way.  
