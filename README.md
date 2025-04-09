@@ -68,6 +68,13 @@ http://twitter.com/share?text=post_title&amp;url=post_url
 
 See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
 
+### Sitemap and Robots
+
+This repository includes `jekyll-sitemap` and `jekyll-robots` plugins to automatically generate `sitemap.xml` and `robots.txt` files for your site.
+
+* **sitemap.xml**: The `sitemap.xml` file is automatically generated and updated whenever you build your site. It helps search engines to index your site more effectively.
+* **robots.txt**: The `robots.txt` file is automatically generated and updated whenever you build your site. It provides instructions to search engine crawlers on how to index your site.
+
 Licensing
 ---------
 
